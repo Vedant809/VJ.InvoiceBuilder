@@ -1,0 +1,6 @@
+@VJ.InvoiceBuilder_HostAddress = http://localhost:5248
+
+GET {{VJ.InvoiceBuilder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
